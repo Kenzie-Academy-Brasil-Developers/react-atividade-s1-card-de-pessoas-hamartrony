@@ -1,0 +1,11 @@
+.pessoa{
+    width: 200px;
+    height: 200px;
+    font-size: 10px;
+    background-color:darkolivegreen;
+    border:1px white solid;
+    border-radius: 35px;
+    margin-right: 10px;
+
+}
+
